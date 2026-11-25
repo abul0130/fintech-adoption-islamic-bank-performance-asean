@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this presentation, please cite it as below."
+type: conference-paper
+title: "FinTech Adoption and Islamic Bank Performance in ASEAN: Mediation and Moderation Effects"
+authors:
+  - family-names: Hosen
+    given-names: Abul
+    orcid: "https://orcid.org/0009-0008-4987-6077"
+    affiliation: "Albukhary International University"
+  - family-names: Faleel
+    given-names: Mohamed Inshaf Mohamed
+    affiliation: "Albukhary International University"
+conference:
+  name: "5th International Conference on Muslim World Economy and Business (ICMWEB 2026)"
